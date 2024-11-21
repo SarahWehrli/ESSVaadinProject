@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

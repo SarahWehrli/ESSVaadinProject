@@ -1,0 +1,6 @@
+model/Answer.class
+model/CourseOffering.class
+model/QuestionsManager.class
+model/CourseOfferingManager.class
+model/Evaluation.class
+model/Question.class

@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template",
+  "node.version": "v20.18.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/src/main/frontend",
+  "connect.javaSourceFolder": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/src/main/java",
+  "javaResourceFolder": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/src/main/resources",
+  "connect.applicationProperties": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/sarah/Library/CloudStorage/OneDrive-Persönlich/HSG/Entwurf_Softwaresysteme/Assignment4/a4-template/src/main/frontend/generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "target",
+  "react.enable": true
+}
